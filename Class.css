@@ -1,0 +1,33 @@
+/*styling the header with the "header" class*/
+.header {
+  background-color: #6f4caf; /* Purplish background */
+  color: rgb(199, 17, 17); /* White text */
+  padding: 30px; /* Some padding */
+  text-align: center; /* Centered text */
+  font-size: 2em; /* Larger font size */
+    font-family: 'times new roman', sans-serif; /* Using a clean font */
+}
+
+/*styling content paragraphs with the "content" class*/
+.content {
+  font-family: Arial, sans-serif; /* Using a clean font */
+  line-height: 1.6; /* Better readability */
+  margin: 20px; /* Margin around the content */
+}
+
+/*styling the button with the "button" class*/ 
+.button {
+  background-color: #4CAF50; /* Green background */
+  color: white; /* White text */
+  padding: 10px 20px; /* Padding for the button */
+  border: none; /* No border */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+}
+/* styling the image class */  
+.image {
+  width: 50%; /* full width */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Block display */
+  margin: 20px auto; /* Centered with margin */
+}
